@@ -1,0 +1,18 @@
+import time
+
+name = input("What is your name?:")
+print("Hello "+name)
+print("welcome to Ben's epic code thing")
+time.sleep(3)
+input("are you ready to open the app?")
+print("because i didn't ask nerd!!!")
+time.sleep(1)
+print("Compiling system.32.zip ...")
+time.sleep(3)
+print("Initializing soft lock Microsoft defender ...")
+time.sleep(2)
+print("Key logging network transfer key ...")
+time.sleep(5)
+print("Encrypting data ...")
+time.sleep(10)
+print("Packaging data and sending to @2601:190:580:3b30:7409:318:796:c9f2")
